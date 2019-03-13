@@ -7,6 +7,9 @@ namespace AcademyTestWoppie
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Worl d!");
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Staffan");
         }
     }
 }
